@@ -1,0 +1,10 @@
+{
+    "name": "cypher-nft",
+    "version": "1.0.0",
+    "description": "Cypher NFT",
+    "author": "Cypher",
+    "license": "ISC",
+    "scripts": {
+        "build": "cd contract && bash build.sh && cd .."
+    }
+}
